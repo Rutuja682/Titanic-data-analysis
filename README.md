@@ -11,7 +11,7 @@ The project covers exploratory data analysis (EDA), data preprocessing, hyperpar
 ## Dataset Overview
 - **Records:** Approximately 891 training samples (depending on the version)
 - **Features:** 
-  - **Key Features:** Passenger Class (Pclass), Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
+- **Key Features:** Passenger Class (Pclass), Name, Sex, Age, SibSp, Parch, Ticket, Fare, Cabin, Embarked
 - **Target Variable:** `Survived` (0 = did not survive, 1 = survived)
 
 ## Key Analyses Performed
