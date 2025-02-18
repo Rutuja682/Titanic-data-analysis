@@ -1,11 +1,12 @@
-# Titanic-data-analysis
+
 # Titanic Survival Prediction
 
 ## Purpose
 Develop a machine learning model to predict the survival of Titanic passengers based on their demographic and travel-related features.
 
 ## Project Overview
-This repository contains a comprehensive analysis and model development pipeline for predicting Titanic survival. The project covers exploratory data analysis (EDA), data preprocessing, hyperparameter tuning, and model deployment using a Flask API.
+This repository contains a comprehensive analysis and model development for predicting Titanic survival.
+The project covers exploratory data analysis (EDA), data preprocessing, hyperparameter tuning, and model deployment using a Flask API.
 
 ## Dataset Overview
 - **Records:** Approximately 891 training samples (depending on the version)
